@@ -6,3 +6,20 @@ build/
 
 # local tooling
 .claude/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# build
+.gradle/
+
+# python
+__pycache__/
+*.py[cod]
+
+# local
+local.properties
+.env
+.DS_Store
